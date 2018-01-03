@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "guid": "B1F0F308-006E-4A43-B7ED-A35E6DCA5A39",
+    "function": "EXPEDITOR",
+    "host_order": 2,
+    "serial": "76A3AC42-5EF5-4B81-9271-BA7FEEA3E586",
+    "expeditors": [],
+    "name": "Device 1",
+    "parent_id": null
+  },
+  {
+    "id": 2,
+    "guid": "0A8F404F-FFBB-47F5-8039-07EA0C907B71",
+    "function": "EXPEDITOR",
+    "host_order": 1,
+    "serial": "AD1DEA7C-6C68-4C6A-A175-F81177BC749C",
+    "expeditors": [],
+    "name": "Device 2",
+    "parent_id": null
+  },
+  {
+    "id": 3,
+    "guid": "C74F6212-A68E-4B03-AB8D-674BC81D9710",
+    "function": "EXPEDITOR",
+    "host_order": 4,
+    "serial": "C2922279-A80D-4BFD-8A88-29FF1D0B3A43",
+    "expeditors": [],
+    "name": "Device 3",
+    "parent_id": null
+  },
+  {
+    "id": 4,
+    "guid": "25D79284-AAA3-443B-89FF-386E4296E600",
+    "function": "EXPEDITOR",
+    "host_order": 5,
+    "serial": "A86A76A4-35BC-4C6C-A580-A07CB810436F",
+    "expeditors": [],
+    "name": "Device 4",
+    "parent_id": null
+  },
+  {
+    "id": 5,
+    "guid": "C2A17C84-4A0D-4911-B5DC-233FE4142352",
+    "function": "EXPEDITOR",
+    "host_order": 6,
+    "serial": "265022DA-553D-42C4-8237-6B5495461ABC",
+    "expeditors": [],
+    "name": "Device 5",
+    "parent_id": null
+  },
+  {
+    "id": 6,
+    "guid": "8E9C06B1-540A-4F35-8F9B-FD0B804E3E6E",
+    "function": "EXPEDITOR",
+    "host_order": 3,
+    "serial": "7DE7096C-CB35-4BD4-B116-06F527330130",
+    "expeditors": [],
+    "name": "Device 6",
+    "parent_id": null
+  }
+]
