@@ -8,7 +8,9 @@
     "expeditors": [],
     "name": "Device 1",
     "parent_id": null,
-    "update_time": 1515077574.9789891
+    "update_time": 1515077574.9789891,
+    "create_time": 1515077574.9789891,
+    "enable": true
   },
   {
     "id": 2,
@@ -19,7 +21,9 @@
     "expeditors": [],
     "name": "Device 2",
     "parent_id": null,
-    "update_time": 1515077574.9789891
+    "update_time": 1515077574.9789891,
+    "create_time": 1515077574.9789891,
+    "enable": true
   },
   {
     "id": 3,
@@ -30,7 +34,9 @@
     "expeditors": [],
     "name": "Device 3",
     "parent_id": null,
-    "update_time": 1515077574.9789891
+    "update_time": 1515077574.9789891,
+    "create_time": 1515077574.9789891,
+    "enable": true
   },
   {
     "id": 4,
@@ -41,7 +47,9 @@
     "expeditors": [],
     "name": "Device 4",
     "parent_id": null,
-    "update_time": 1515077574.9789891
+    "update_time": 1515077574.9789891,
+    "create_time": 1515077574.9789891,
+    "enable": true
   },
   {
     "id": 5,
@@ -52,7 +60,9 @@
     "expeditors": [],
     "name": "Device 5",
     "parent_id": null,
-    "update_time": 1515077574.9789891
+    "update_time": 1515077574.9789891,
+    "create_time": 1515077574.9789891,
+    "enable": true
   },
   {
     "id": 6,
@@ -63,6 +73,8 @@
     "expeditors": [],
     "name": "Device 6",
     "parent_id": null,
-    "update_time": 1515077574.9789891
+    "update_time": 1515077574.9789891,
+    "create_time": 1515077574.9789891,
+    "enable": true
   }
 ]
