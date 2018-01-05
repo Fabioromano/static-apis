@@ -76,5 +76,18 @@
     "update_time": 1515077576,
     "create_time": 1515077581,
     "enable": true
+  },
+  {
+    "id": 7,
+    "guid": "4BC7362D-80BC-4119-8DF6-845990BE89F4",
+    "function": "EXPEDITOR",
+    "host_order": 7,
+    "serial": "4BC7362D-80BC-4119-8DF6-845990BE89F4",
+    "expeditors": [],
+    "name": "Device 7",
+    "parent_id": null,
+    "update_time": 1515077576,
+    "create_time": 1515077582,
+    "enable": true
   }
 ]
