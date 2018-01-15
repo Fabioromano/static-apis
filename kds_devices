@@ -89,5 +89,18 @@
     "update_time": 1515077576,
     "create_time": 1515077582,
     "enable": true
+  },
+    {
+    "id": 8,
+    "guid": "F6f49246-c24d-49a9-b563-3cde03698941",
+    "function": "EXPEDITOR",
+    "host_order": 8,
+    "serial": "F6f49246-c24d-49a9-b563-3cde03698941",
+    "expeditors": [],
+    "name": "Device 8",
+    "parent_id": null,
+    "update_time": 1515077577,
+    "create_time": 1515077583,
+    "enable": true
   }
 ]
