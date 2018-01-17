@@ -102,5 +102,18 @@
     "update_time": 1515077578,
     "create_time": 1515077583,
     "enable": true
+  },
+    {
+    "id": 9,
+    "guid": "F7704838-1C38-4F27-B152-D84DFEE365AD",
+    "function": "EXPEDITOR",
+    "host_order": 9,
+    "serial": "F7704838-1C38-4F27-B152-D84DFEE365AD",
+    "expeditors": [],
+    "name": "Device 9",
+    "parent_id": null,
+    "update_time": 1515077579,
+    "create_time": 1515077584,
+    "enable": true
   }
 ]
