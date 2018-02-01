@@ -141,5 +141,18 @@
     "update_time": 1515077581,
     "create_time": 1515077586,
     "enable": true
+  },
+  {
+    "id": 12,
+    "guid": "D7624FA7-4B38-41FC-B320-CB708DB8C8F8",
+    "function": "EXPEDITOR",
+    "host_order": 12,
+    "serial": "D7624FA7-4B38-41FC-B320-CB708DB8C8F8",
+    "expeditors": [],
+    "name": "Device 12",
+    "parent_id": null,
+    "update_time": 1515077582,
+    "create_time": 1515077587,
+    "enable": true
   }
 ]
