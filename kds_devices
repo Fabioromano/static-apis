@@ -144,10 +144,10 @@
   },
   {
     "id": 12,
-    "guid": "D7624FA7-4B38-41FC-B320-CB708DB8C8F8",
+    "guid": "D7624FA7-4B38-41FC-B320-CB708DB8C8FB",
     "function": "EXPEDITOR",
     "host_order": 12,
-    "serial": "D7624FA7-4B38-41FC-B320-CB708DB8C8F8",
+    "serial": "D7624FA7-4B38-41FC-B320-CB708DB8C8FB",
     "expeditors": [],
     "name": "Device 12",
     "parent_id": null,
