@@ -155,4 +155,17 @@
     "create_time": 1515077587,
     "enable": true
   }
+  {
+    "id": 13,
+    "guid": "08757C76-F8BA-ADB1-F073E7DFE70E",
+    "function": "EXPEDITOR",
+    "host_order": 13,
+    "serial": "08757C76-F8BA-ADB1-F073E7DFE70E",
+    "expeditors": [],
+    "name": "Device 13",
+    "parent_id": null,
+    "update_time": 1515077583,
+    "create_time": 1515077588,
+    "enable": true
+  }
 ]
